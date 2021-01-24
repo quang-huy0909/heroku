@@ -6,6 +6,6 @@
 <H1>
  Hiiiiii
 </H1>
-<img src ="heroku/Koala.jpg" alt="Koala"/>
+<img src ="https://github.com/quang-huy0909/heroku/blob/main/Koala.jpg" alt="Koala"/>
 </body>
 </html>
