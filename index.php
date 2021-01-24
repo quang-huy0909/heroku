@@ -1,5 +1,6 @@
 <html>
 <head>
+	<script language="javascript" src="javascript.js"></script>
 	Hello !!
 </head>
 <body>
